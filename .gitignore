@@ -1,25 +1,28 @@
-# Virtual Environment
+# Virtual Environments
 venv/
+venv312/
+.venv/
 
-# Python
+# Python Cache
 __pycache__/
 *.pyc
-
+.env
 # Jupyter
 .ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
 
 # Environment Variables
 .env
 
-# VS Code
-.vscode/
-
-# OS Files
-.DS_Store
-Thumbs.db
-
-# ML Models (Optional)
-# models/*.pkl
+# Model Files (optional)
+*.pkl
 
 # Logs
 *.log
