@@ -1,6 +1,12 @@
-# 🛍️ NeuralRetail
+<p align="center">
+  <img src="assets/banner.png" alt="NeuralRetail Banner" width="100%">
+</p>
 
-> AI-Powered Retail Analytics Platform built with Machine Learning, FastAPI, Streamlit and Docker.
+<h1 align="center">🛍️ NeuralRetail</h1>
+
+<p align="center">
+AI-Powered Retail Analytics Platform using Machine Learning, FastAPI, Streamlit & Docker
+</p>
 
 ---
 
